@@ -66,6 +66,6 @@ define(['jquery'],function($, hbm){
         }
         return format;
 	}
-	//logger.debug('hi')
+	//logger.debug('hi test log')
 	
 });
