@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GS_H5_FE",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-handlebars": "~0.5.9",
+    "grunt-contrib-less": "~0.5.1",
+    "grunt-contrib-requirejs": "~0.4.0",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-cssmin": "~0.6.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "gm": "~1.11.0",
+    "spritesmith": "~0.11.0",
+    "grunt-weinre": "0.0.2",
+    "grunt-cachebuster": "~0.1.5",
+    "grunt-contrib-compress": "~0.5.2"
+  }
+}
